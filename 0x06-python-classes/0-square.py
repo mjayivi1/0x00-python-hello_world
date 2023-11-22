@@ -1,3 +1,12 @@
 #!/usr/bin/python3
-class Square(object):
+"""
+Module 0-square
+Defines a square
+"""
+
+
+class Square:
+    """
+    Defines a square
+    """
     pass
